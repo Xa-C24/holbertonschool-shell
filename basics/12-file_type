@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir iamafile cd /tmp
+mkdir iamafile cd/tmp
