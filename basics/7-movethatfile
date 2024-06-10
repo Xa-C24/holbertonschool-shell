@@ -1,2 +1,3 @@
 #!/bin/bash
-rm -rf /tmp/betty > 
+rm -rf /tmp/betty > /dev/null 2>&1
+
