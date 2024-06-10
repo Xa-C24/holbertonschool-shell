@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir iamafile cd/tmp
+check_file_type.sh
