@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 777 my_dir
+mkdir -m 777 -p /parent/dirs/to/create/your/dir
