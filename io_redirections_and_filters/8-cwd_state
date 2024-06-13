@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir -p /Scripts
+touch /Scripts/ls_cwd_content
