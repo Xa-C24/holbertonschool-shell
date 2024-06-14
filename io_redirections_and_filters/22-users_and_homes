@@ -1,3 +1,3 @@
 #!/bin/bash
-gestent ls -l
+grep ls -l
 
