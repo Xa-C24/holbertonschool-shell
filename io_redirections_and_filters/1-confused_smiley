@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -E "(Ôo)"
+echo "\"(Ôo)'"
