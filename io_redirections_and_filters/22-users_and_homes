@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ls -l/home
+cat /etc/passwd |cut -d: -f1,6 | sort
